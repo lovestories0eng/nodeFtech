@@ -1,0 +1,5 @@
+font filter=lfs diff=lfs merge=lfs -text
+img filter=lfs diff=lfs merge=lfs -text
+index.html filter=lfs diff=lfs merge=lfs -text
+js filter=lfs diff=lfs merge=lfs -text
+stockData filter=lfs diff=lfs merge=lfs -text
